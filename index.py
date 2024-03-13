@@ -1,4 +1,4 @@
-t_user=input('Give me your text')
+t_user=input('Give me your textsdsadadd')
 count=0
 for c in t_user: 
     print(c)
